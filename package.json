@@ -1,0 +1,13 @@
+{
+  "name": "26_08_2023_pw",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
